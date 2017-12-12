@@ -1,0 +1,38 @@
+@charset 'utf-8';
+
+h1{
+    font-family:Impact, Charcoal, sans-serif;
+    text-shadow: 2px 2px black;
+    font-style: italic;
+    font-size: 200%;
+    text-align: center;
+    color: blue;
+}
+h2{
+    font-size: 100%;
+    text-align:left;
+    color:black;
+}
+.link_button {
+    border-radius: 4px;
+    border-radius: 4px;
+    border-radius: 4px;
+    border:solid 4px burlywood;
+    font-family: Impact, Charcol, sans-serif;
+    background: antiquewhite;
+    color: black;
+    
+}
+
+table{
+    align-content: center;
+    width: 100%;
+    padding-left:70px;
+    padding-right: 70px;
+}
+
+td{
+    align-content:center;
+    height: 50px;
+    text-align: center;
+}
